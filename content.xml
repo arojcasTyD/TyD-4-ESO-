@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260509204240BB308G</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260509204240URXBCC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Circuitos Neumático e Hidraúlicos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Angélica Rojas </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SA5. Circuitos Neumático e Hidraúlicos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778352152611</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Circuitos Neumático e Hidraúlicos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Circuitos Neumático e Hidraúlicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Circuitos Neumático e Hidraúlicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odeBlockId>block-mox5hiz9-w9gzclx36</odeBlockId>
+      <blockName>El reto de la automatización sostenible. La eficiencia energética en la industria.</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odeBlockId>block-mox5hiz9-w9gzclx36</odeBlockId>
+          <odeIdeviceId>idevice-mox5hiza-9rg2g5lpk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Nivel al que va dirigido</strong>: 4º ESO</li>
+<li><strong>Temporalización aproximada</strong>: 10 sesiones</li>
+<li><strong>Materia o materias implicadas: </strong>Tecnología, física y química, matemáticas</li>
+</ul>
+<p><em><strong>Aprendizaje Basado en el Descubrimiento:</strong></em> con el uso de actividades que permitan analizar que la tecnología deja de ser un concepto abstracto para convertirse en algo familiar para el alumnado. <br /></p>
+<p><em><strong>Gamificación y Motivación: </strong></em>generar un clima de aula positivo y una competitividad sana.<br /></p>
+<p><strong><em>El Docente como Facilitador:</em></strong> El papel del profesor se desplaza de la instrucción directa hacia la ayuda, utilizando preguntas aleatorias para fomentar el pensamiento crítico.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hiza-9rg2g5lpk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Nivel al que va dirigido</strong>: 4º ESO</li>\n<li><strong>Temporalización aproximada</strong>: 10 sesiones</li>\n<li><strong>Materia o materias implicadas: </strong>Tecnología, física y química, matemáticas</li>\n</ul>\n<p><em><strong>Aprendizaje Basado en el Descubrimiento:</strong></em> con el uso de actividades que permitan analizar que la tecnología deja de ser un concepto abstracto para convertirse en algo familiar para el alumnado. <br /></p>\n<p><em><strong>Gamificación y Motivación: </strong></em>generar un clima de aula positivo y una competitividad sana.<br /></p>\n<p><strong><em>El Docente como Facilitador:</em></strong> El papel del profesor se desplaza de la instrucción directa hacia la ayuda, utilizando preguntas aleatorias para fomentar el pensamiento crítico.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odeBlockId>block-1778260905910-1tgko85ny</odeBlockId>
+      <blockName>¿Qué vas a aprender mientras haces la guía?</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odeBlockId>block-1778260905910-1tgko85ny</odeBlockId>
+          <odeIdeviceId>idevice-1778260905909-llixgx4l3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Deberás resolver el siguiente reto:</p>
+<p><span style="color: #169179;"><strong>Una fábrica local quiere reducir su huella de carbono sustituyendo motores eléctricos ineficientes por sistemas neumáticos de bajo consumo o hidráulicos de alta precisión.</strong></span></p>
+<ul>
+<li><span style="color: #000000;">Conecta con los ODS (Objetivos de Desarrollo Sostenible) y da una utilidad real al cálculo de fuerzas y presiones.</span></li>
+</ul>
+<figure class="exe-figure position-center" style="width: 255px; text-align: center;"><img src="{{context_path}}/content/resources/ods.png" title="ODS" width="255" height="197" alt="ODS" />
+<figcaption class="figcaption"><span class="author">ONU</span>. <a href="ODS" class="title" target="_blank" rel="noopener"><em>ODS</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><span style="color: #34495e;"><strong>Producto Final: </strong></span></p>
+<ul>
+<li><span style="color: #000000;">Diseño de una línea de montaje automatizada mediante un simulador que cumpla con criterios de ahorro energético. </span></li>
+<li><span style="color: #000000;">Realización del proyecto en el taller en el cual van a entender cómo funciona la hidráulica y neumática que es más fácil de analizar, usando para ello un brazo hidráulico. </span></li>
+</ul>
+<p><span style="color: #000000;"></span><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778260905909-llixgx4l3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Deberás resolver el siguiente reto:</p>\n<p><span style=\"color: #169179;\"><strong>Una fábrica local quiere reducir su huella de carbono sustituyendo motores eléctricos ineficientes por sistemas neumáticos de bajo consumo o hidráulicos de alta precisión.</strong></span></p>\n<ul>\n<li><span style=\"color: #000000;\">Conecta con los ODS (Objetivos de Desarrollo Sostenible) y da una utilidad real al cálculo de fuerzas y presiones.</span></li>\n</ul>\n<figure class=\"exe-figure position-center\" style=\"width: 255px; text-align: center;\"><img src=\"{{context_path}}/content/resources/ods.png\" title=\"ODS\" width=\"255\" height=\"197\" alt=\"ODS\" />\n<figcaption class=\"figcaption\"><span class=\"author\">ONU</span>. <a href=\"ODS\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>ODS</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><span style=\"color: #34495e;\"><strong>Producto Final: </strong></span></p>\n<ul>\n<li><span style=\"color: #000000;\">Diseño de una línea de montaje automatizada mediante un simulador que cumpla con criterios de ahorro energético. </span></li>\n<li><span style=\"color: #000000;\">Realización del proyecto en el taller en el cual van a entender cómo funciona la hidráulica y neumática que es más fácil de analizar, usando para ello un brazo hidráulico. </span></li>\n</ul>\n<p><span style=\"color: #000000;\"></span><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odeBlockId>block-1778261153575-sf7ld7xj2</odeBlockId>
+      <blockName>Metodología</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odeBlockId>block-1778261153575-sf7ld7xj2</odeBlockId>
+          <odeIdeviceId>idevice-1778261153574-7rqp6i1dj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Aprendizaje entre Iguales: </strong>el aprendizaje es más efectivo cuando los propios alumnos corrigen sus fallos y se explican entre ellos los conceptos.</li>
+<li><strong>Autocorrección Mediante TICs:</strong> El uso de vídeos y realización de simulaciones  para verificar el funcionamiento de los circuitos permite que los alumnos logren entender mejor las ideas al identificar sus propios errores de forma autónoma.</li>
+<li><strong>Evaluación Formativa</strong>: La justificación realizada por el alumno en sus fichas de trabajo sirve como enlace directo del aprendizaje y del proceso de razonamiento. Además de las simulaciones en el ordenador que se realizarán a lo largo del tema y  la realización del proyecto en el taller.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261153574-7rqp6i1dj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Aprendizaje entre Iguales: </strong>el aprendizaje es más efectivo cuando los propios alumnos corrigen sus fallos y se explican entre ellos los conceptos.</li>\n<li><strong>Autocorrección Mediante TICs:</strong> El uso de vídeos y realización de simulaciones  para verificar el funcionamiento de los circuitos permite que los alumnos logren entender mejor las ideas al identificar sus propios errores de forma autónoma.</li>\n<li><strong>Evaluación Formativa</strong>: La justificación realizada por el alumno en sus fichas de trabajo sirve como enlace directo del aprendizaje y del proceso de razonamiento. Además de las simulaciones en el ordenador que se realizarán a lo largo del tema y  la realización del proyecto en el taller.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odeBlockId>block-mox5hizd-p9yaceqok</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odeBlockId>block-mox5hizd-p9yaceqok</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizd-4jki0a3ju</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación de esta SA se utilizarán diferentes instrumentos de evaluación como los detallados en la tabla siguiente, pero en especial para las simulaciones y el proyecto se usará la Diana de evaluación y la Rúbrica.</p>
+<table border="1" style="width: 54.2719%; height: 806.6px; background-color: #2dc26b; border-color: #2dc26b; border-style: solid;">
+<tbody>
+<tr style="height: 56.8px;">
+<td style="width: 28.7413%; height: 56.8px; border-color: #169179; text-align: center;"><span style="color: #ecf0f1;"><strong> TAREA </strong></span><br /></td>
+<td style="width: 14.3707%; text-align: center; height: 56.8px;"><span style="color: #ecf0f1;"><strong>CRITERIO DE EVALUACIÓN</strong></span></td>
+<td style="width: 17.8394%; text-align: center; height: 56.8px;"><span style="color: #ecf0f1;"><strong>AGRUPAMIENTO</strong></span></td>
+<td style="width: 15.6095%; text-align: center; height: 56.8px;"><span style="color: #ecf0f1;"><strong> TIEMPO APROXIMADO</strong></span><br /></td>
+<td style="width: 23.4143%; text-align: center; height: 56.8px;"><span style="color: #ecf0f1;"><strong>HERRAMIENTA</strong></span><br /></td>
+</tr>
+<tr style="background-color: #ffffff; height: 32.8px; border-color: #169179;">
+<td style="width: 28.7413%; height: 32.8px; border-color: #169179;">Actividad 1. Investigación</td>
+<td style="width: 14.3707%; height: 32.8px; border-color: #169179;">C.E.2.2</td>
+<td style="width: 17.8394%; height: 32.8px; border-color: #169179; text-align: center;">Individual</td>
+<td style="width: 15.6095%; height: 32.8px; border-color: #169179; text-align: center;">1 sesión</td>
+<td style="width: 23.4143%; height: 32.8px; border-color: #169179; text-align: center;">Ficha - Libro</td>
+</tr>
+<tr style="background-color: #ffffff; height: 81.8px; border-color: #169179;">
+<td style="width: 28.7413%; height: 81.8px; border-color: #169179;">Actividad 2. Clasificación de sistemas</td>
+<td style="width: 14.3707%; height: 81.8px; border-color: #169179;">
+<p>C.E.2.2</p>
+<p>C.E.3.1</p>
+<p><br /></p>
+</td>
+<td style="width: 17.8394%; height: 81.8px; border-color: #169179; text-align: center;">Parejas</td>
+<td style="width: 15.6095%; height: 81.8px; border-color: #169179; text-align: center;">2 sesiones</td>
+<td style="width: 23.4143%; height: 81.8px; border-color: #169179; text-align: center;">Ficha- Classroom- Libro</td>
+</tr>
+<tr style="background-color: #ffffff; height: 128.8px; border-color: #169179;">
+<td style="width: 28.7413%; height: 128.8px; border-color: #169179;">Actividad 3. Análisis de circuitos</td>
+<td style="width: 14.3707%; height: 128.8px; border-color: #169179;">
+<p>C.E.2.2</p>
+<p>C.E.3.1</p>
+<p><br /></p>
+</td>
+<td style="width: 17.8394%; height: 128.8px; border-color: #169179; text-align: center;">Individual- Parejas</td>
+<td style="width: 15.6095%; height: 128.8px; border-color: #169179; text-align: center;">1 sesión</td>
+<td style="width: 23.4143%; height: 128.8px; border-color: #169179; text-align: center;">Ficha- Classroom- Libro</td>
+</tr>
+<tr style="background-color: #ffffff; height: 128.8px; border-color: #169179;">
+<td style="width: 28.7413%; height: 128.8px; border-color: #169179;">Práctica 1. Simulación de circuitos neumáticos simples</td>
+<td style="width: 14.3707%; height: 128.8px; border-color: #169179;">
+<p>C.E.2.2</p>
+<p>C.E.4.1</p>
+<p><br /></p>
+</td>
+<td style="width: 17.8394%; height: 128.8px; border-color: #169179; text-align: center;">Individual</td>
+<td style="width: 15.6095%; height: 128.8px; border-color: #169179; text-align: center;">1 sesión</td>
+<td style="width: 23.4143%; height: 128.8px; border-color: #169179; text-align: center;">Ordenador</td>
+</tr>
+<tr style="background-color: #ffffff; height: 168.8px; border-color: #169179;">
+<td style="width: 28.7413%; height: 168.8px; border-color: #169179;">Práctica 2. Simulación de circuitos neumáticos más complejos</td>
+<td style="width: 14.3707%; height: 168.8px; border-color: #169179;">
+<p>C.E.2.2</p>
+<p>C.E.4.1</p>
+<p>C.E.3.1</p>
+<p><br /></p>
+</td>
+<td style="width: 17.8394%; height: 168.8px; border-color: #169179; text-align: center;">Individual</td>
+<td style="width: 15.6095%; height: 168.8px; border-color: #169179; text-align: center;">2 sesiones</td>
+<td style="width: 23.4143%; height: 168.8px; border-color: #169179; text-align: center;">Ordenador</td>
+</tr>
+<tr style="background-color: #ffffff; height: 208.8px; border-color: #169179;">
+<td style="width: 28.7413%; height: 208.8px; border-color: #169179;">
+<p>Proyecto circuito neumático-hidráulico. (Presentación proyecto usando google presentaciones)</p>
+<p><br /></p>
+</td>
+<td style="width: 14.3707%; height: 208.8px; border-color: #169179;">
+<p>C.E.2.2</p>
+<p>C.E.4.1</p>
+<p>C.E.3.1</p>
+<p>C.E.5.1</p>
+<p><br /></p>
+</td>
+<td style="width: 17.8394%; height: 208.8px; border-color: #169179; text-align: center;">Parejas</td>
+<td style="width: 15.6095%; height: 208.8px; border-color: #169179; text-align: center;">3 sesiones</td>
+<td style="width: 23.4143%; height: 208.8px; border-color: #169179; text-align: center;">Taller/ordenador</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><span style="color: #e67e23;"><strong>Diana de evaluación: </strong></span></p>
+<p><br /></p>
+<figure class="exe-figure" style="width: 256px;"><strong><img src="{{context_path}}/content/resources/diana.JPG" title="Diana de evaluación " width="256" height="607" alt="Diana de evaluación " style="float: left;" /></strong></figure>
+<figure class="exe-figure" style="width: 256px;">
+<figcaption class="figcaption"><span style="color: #000000;"><span class="author">Angélica Rojas</span>. <span class="title"><em>Diana de evaluación </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener" style="color: #000000;">CC0</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p><a href="{{context_path}}/content/resources/Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf" title="Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf"></a><br /></p>
+<p><br /></p>
+<p><span style="color: #000000;" title="Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf">En el siguiente enlace encontrará la rúbrica de evaluación del proyecto. Rúbrica</span></p>
+<p><img src="{{context_path}}/content/resources/rubrica1.JPG" width="721" height="637" alt="" /><br /></p>
+<p><img src="{{context_path}}/content/resources/rubrica2.JPG" width="720" height="608" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/rubrica3.JPG" width="716" height="603" alt="" /></p>
+<figure class="exe-figure" style="width: 717px; text-align: center;"><img src="{{context_path}}/content/resources/rubrica4.JPG" title="Rúbrica" width="717" height="312" alt="Rúbrica" style="float: left;" />
+<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Rúbrica</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">) </span></span></figcaption>
+</figure>
+<p><a href="{{context_path}}/content/resources/Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf" title="Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf">{{context_path}}/content/resources/Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizd-4jki0a3ju","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación de esta SA se utilizarán diferentes instrumentos de evaluación como los detallados en la tabla siguiente, pero en especial para las simulaciones y el proyecto se usará la Diana de evaluación y la Rúbrica.</p>\n<table border=\"1\" style=\"width: 54.2719%; height: 806.6px; background-color: #2dc26b; border-color: #2dc26b; border-style: solid;\">\n<tbody>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 28.7413%; height: 56.8px; border-color: #169179; text-align: center;\"><span style=\"color: #ecf0f1;\"><strong> TAREA </strong></span><br /></td>\n<td style=\"width: 14.3707%; text-align: center; height: 56.8px;\"><span style=\"color: #ecf0f1;\"><strong>CRITERIO DE EVALUACIÓN</strong></span></td>\n<td style=\"width: 17.8394%; text-align: center; height: 56.8px;\"><span style=\"color: #ecf0f1;\"><strong>AGRUPAMIENTO</strong></span></td>\n<td style=\"width: 15.6095%; text-align: center; height: 56.8px;\"><span style=\"color: #ecf0f1;\"><strong> TIEMPO APROXIMADO</strong></span><br /></td>\n<td style=\"width: 23.4143%; text-align: center; height: 56.8px;\"><span style=\"color: #ecf0f1;\"><strong>HERRAMIENTA</strong></span><br /></td>\n</tr>\n<tr style=\"background-color: #ffffff; height: 32.8px; border-color: #169179;\">\n<td style=\"width: 28.7413%; height: 32.8px; border-color: #169179;\">Actividad 1. Investigación</td>\n<td style=\"width: 14.3707%; height: 32.8px; border-color: #169179;\">C.E.2.2</td>\n<td style=\"width: 17.8394%; height: 32.8px; border-color: #169179; text-align: center;\">Individual</td>\n<td style=\"width: 15.6095%; height: 32.8px; border-color: #169179; text-align: center;\">1 sesión</td>\n<td style=\"width: 23.4143%; height: 32.8px; border-color: #169179; text-align: center;\">Ficha - Libro</td>\n</tr>\n<tr style=\"background-color: #ffffff; height: 81.8px; border-color: #169179;\">\n<td style=\"width: 28.7413%; height: 81.8px; border-color: #169179;\">Actividad 2. Clasificación de sistemas</td>\n<td style=\"width: 14.3707%; height: 81.8px; border-color: #169179;\">\n<p>C.E.2.2</p>\n<p>C.E.3.1</p>\n<p><br /></p>\n</td>\n<td style=\"width: 17.8394%; height: 81.8px; border-color: #169179; text-align: center;\">Parejas</td>\n<td style=\"width: 15.6095%; height: 81.8px; border-color: #169179; text-align: center;\">2 sesiones</td>\n<td style=\"width: 23.4143%; height: 81.8px; border-color: #169179; text-align: center;\">Ficha- Classroom- Libro</td>\n</tr>\n<tr style=\"background-color: #ffffff; height: 128.8px; border-color: #169179;\">\n<td style=\"width: 28.7413%; height: 128.8px; border-color: #169179;\">Actividad 3. Análisis de circuitos</td>\n<td style=\"width: 14.3707%; height: 128.8px; border-color: #169179;\">\n<p>C.E.2.2</p>\n<p>C.E.3.1</p>\n<p><br /></p>\n</td>\n<td style=\"width: 17.8394%; height: 128.8px; border-color: #169179; text-align: center;\">Individual- Parejas</td>\n<td style=\"width: 15.6095%; height: 128.8px; border-color: #169179; text-align: center;\">1 sesión</td>\n<td style=\"width: 23.4143%; height: 128.8px; border-color: #169179; text-align: center;\">Ficha- Classroom- Libro</td>\n</tr>\n<tr style=\"background-color: #ffffff; height: 128.8px; border-color: #169179;\">\n<td style=\"width: 28.7413%; height: 128.8px; border-color: #169179;\">Práctica 1. Simulación de circuitos neumáticos simples</td>\n<td style=\"width: 14.3707%; height: 128.8px; border-color: #169179;\">\n<p>C.E.2.2</p>\n<p>C.E.4.1</p>\n<p><br /></p>\n</td>\n<td style=\"width: 17.8394%; height: 128.8px; border-color: #169179; text-align: center;\">Individual</td>\n<td style=\"width: 15.6095%; height: 128.8px; border-color: #169179; text-align: center;\">1 sesión</td>\n<td style=\"width: 23.4143%; height: 128.8px; border-color: #169179; text-align: center;\">Ordenador</td>\n</tr>\n<tr style=\"background-color: #ffffff; height: 168.8px; border-color: #169179;\">\n<td style=\"width: 28.7413%; height: 168.8px; border-color: #169179;\">Práctica 2. Simulación de circuitos neumáticos más complejos</td>\n<td style=\"width: 14.3707%; height: 168.8px; border-color: #169179;\">\n<p>C.E.2.2</p>\n<p>C.E.4.1</p>\n<p>C.E.3.1</p>\n<p><br /></p>\n</td>\n<td style=\"width: 17.8394%; height: 168.8px; border-color: #169179; text-align: center;\">Individual</td>\n<td style=\"width: 15.6095%; height: 168.8px; border-color: #169179; text-align: center;\">2 sesiones</td>\n<td style=\"width: 23.4143%; height: 168.8px; border-color: #169179; text-align: center;\">Ordenador</td>\n</tr>\n<tr style=\"background-color: #ffffff; height: 208.8px; border-color: #169179;\">\n<td style=\"width: 28.7413%; height: 208.8px; border-color: #169179;\">\n<p>Proyecto circuito neumático-hidráulico. (Presentación proyecto usando google presentaciones)</p>\n<p><br /></p>\n</td>\n<td style=\"width: 14.3707%; height: 208.8px; border-color: #169179;\">\n<p>C.E.2.2</p>\n<p>C.E.4.1</p>\n<p>C.E.3.1</p>\n<p>C.E.5.1</p>\n<p><br /></p>\n</td>\n<td style=\"width: 17.8394%; height: 208.8px; border-color: #169179; text-align: center;\">Parejas</td>\n<td style=\"width: 15.6095%; height: 208.8px; border-color: #169179; text-align: center;\">3 sesiones</td>\n<td style=\"width: 23.4143%; height: 208.8px; border-color: #169179; text-align: center;\">Taller/ordenador</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><span style=\"color: #e67e23;\"><strong>Diana de evaluación: </strong></span></p>\n<p><br /></p>\n<figure class=\"exe-figure\" style=\"width: 256px;\"><strong><img src=\"{{context_path}}/content/resources/diana.JPG\" title=\"Diana de evaluación \" width=\"256\" height=\"607\" alt=\"Diana de evaluación \" style=\"float: left;\" /></strong></figure>\n<figure class=\"exe-figure\" style=\"width: 256px;\">\n<figcaption class=\"figcaption\"><span style=\"color: #000000;\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Diana de evaluación </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\" style=\"color: #000000;\">CC0</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p><a href=\"{{context_path}}/content/resources/Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf\" title=\"Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf\"></a><br /></p>\n<p><br /></p>\n<p><span style=\"color: #000000;\" title=\"Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf\">En el siguiente enlace encontrará la rúbrica de evaluación del proyecto. Rúbrica</span></p>\n<p><img src=\"{{context_path}}/content/resources/rubrica1.JPG\" width=\"721\" height=\"637\" alt=\"\" /><br /></p>\n<p><img src=\"{{context_path}}/content/resources/rubrica2.JPG\" width=\"720\" height=\"608\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/rubrica3.JPG\" width=\"716\" height=\"603\" alt=\"\" /></p>\n<figure class=\"exe-figure\" style=\"width: 717px; text-align: center;\"><img src=\"{{context_path}}/content/resources/rubrica4.JPG\" title=\"Rúbrica\" width=\"717\" height=\"312\" alt=\"Rúbrica\" style=\"float: left;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Rúbrica</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">) </span></span></figcaption>\n</figure>\n<p><a href=\"{{context_path}}/content/resources/Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf\" title=\"Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf\">{{context_path}}/content/resources/Sistemas neumáticos- Proyecto- Rúbrica -  Helicóptero.pdf</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odeBlockId>block-mox5hizd-nstrattew</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odeBlockId>block-mox5hizd-nstrattew</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizd-5fl5gz2tg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>TEC.4.2.2</strong>.Fabricar productos y soluciones tecnológicas, aplicando herramientas de diseño asistido, técnicas de elaboración manual, mecánica y digital y utilizando los materiales y recursos mecánicos, eléctricos, electrónicos y digitales adecuados.</p>
+<p><strong>TEC.4.3.1.</strong>Intercambiar información y fomentar el trabajo en equipo de manera asertiva, empleando las herramientas digitales adecuadas junto con el vocabulario técnico, símbolos y esquemas de sistemas tecnológicos apropiados.</p>
+<p><strong>TEC.4.4.1</strong>.Diseñar, construir, controlar y simular sistemas automáticos programables y robots que sean capaces de realizar tareas de forma autónoma, aplicando conocimientos de mecánica, electrónica, neumática y componentes de los sistemas de control, así como otros conocimientos interdisciplinares.</p>
+<p><strong>TEC.4.5.1.</strong>Resolver tareas propuestas de manera eficiente mediante el uso y configuración de diferentes aplicaciones y herramientas digitales, aplicando conocimientos interdisciplinares con autonomía.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizd-5fl5gz2tg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>TEC.4.2.2</strong>.Fabricar productos y soluciones tecnológicas, aplicando herramientas de diseño asistido, técnicas de elaboración manual, mecánica y digital y utilizando los materiales y recursos mecánicos, eléctricos, electrónicos y digitales adecuados.</p>\n<p><strong>TEC.4.3.1.</strong>Intercambiar información y fomentar el trabajo en equipo de manera asertiva, empleando las herramientas digitales adecuadas junto con el vocabulario técnico, símbolos y esquemas de sistemas tecnológicos apropiados.</p>\n<p><strong>TEC.4.4.1</strong>.Diseñar, construir, controlar y simular sistemas automáticos programables y robots que sean capaces de realizar tareas de forma autónoma, aplicando conocimientos de mecánica, electrónica, neumática y componentes de los sistemas de control, así como otros conocimientos interdisciplinares.</p>\n<p><strong>TEC.4.5.1.</strong>Resolver tareas propuestas de manera eficiente mediante el uso y configuración de diferentes aplicaciones y herramientas digitales, aplicando conocimientos interdisciplinares con autonomía.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+  <odeParentPageId>page-moyoyeuw-73ajum9u1</odeParentPageId>
+  <pageName>Definición</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Definición</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Definición</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+      <odeBlockId>block-mox5hizb-o6rknwjjr</odeBlockId>
+      <blockName>¿Qué es un circuito neumático - hidráulico?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+          <odeBlockId>block-mox5hizb-o6rknwjjr</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizb-l8e0ru76u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1536px;"><strong style="color: #34495e; font-size: 18pt;">Descubre tus conocimientos previos:</strong></figure>
+<p>1. Sabiendo que los circuitos neumáticos utilizan aire para funcionar, ¿por qué crees que la neumática está tan extendida?</p>
+<p>2. Explica el concepto de presión y señala las unidades de presión que conoces.</p>
+<p>3. ¿Qué es un compresor?</p>
+<p>4. Piensa en el grifo de un lavabo. ¿Cuántos orificios o vías contiene? ¿En cuántas posiciones puede permanecer sin que actuemos sobre él?</p>
+<p>5. En tu opinión, ¿existe una analogía entre los circuitos eléctricos y los neumáticos e hidráulicos? ¿Crees que será útil que haya una simbología neumática, al igual que disponemos de una simbología eléctrica? ¿Para qué servirá dicha simbología?</p>
+<p>   </p>
+<figure class="exe-figure position-center" style="width: 1000px; text-align: center;"><img src="{{context_path}}/content/resources/Diseño sin título (1).png" title="Sistemas Neumáticos" width="1000" height="570" alt="Sistemas Neumáticos" />
+<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Sistemas Neumáticos</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizb-l8e0ru76u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><strong style=\"color: #34495e; font-size: 18pt;\">Descubre tus conocimientos previos:</strong></figure>\n<p>1. Sabiendo que los circuitos neumáticos utilizan aire para funcionar, ¿por qué crees que la neumática está tan extendida?</p>\n<p>2. Explica el concepto de presión y señala las unidades de presión que conoces.</p>\n<p>3. ¿Qué es un compresor?</p>\n<p>4. Piensa en el grifo de un lavabo. ¿Cuántos orificios o vías contiene? ¿En cuántas posiciones puede permanecer sin que actuemos sobre él?</p>\n<p>5. En tu opinión, ¿existe una analogía entre los circuitos eléctricos y los neumáticos e hidráulicos? ¿Crees que será útil que haya una simbología neumática, al igual que disponemos de una simbología eléctrica? ¿Para qué servirá dicha simbología?</p>\n<p>   </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1000px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Diseño sin título (1).png\" title=\"Sistemas Neumáticos\" width=\"1000\" height=\"570\" alt=\"Sistemas Neumáticos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Sistemas Neumáticos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+      <odeBlockId>block-mox5hizb-mtajmjyrc</odeBlockId>
+      <blockName>Caso practico</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+          <odeBlockId>block-mox5hizb-mtajmjyrc</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizb-ips6zq4e5</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Según las fotografías dadas deberás descubrir qué tipo de sistema usan: Neumático o Hidraúlico y deberás añadirla en la ficha de clase. </p>
+<figure class="exe-figure position-center" style="width: 990px; text-align: center;"><img src="{{context_path}}/content/resources/actividad 1-fotos.JPG" title="Actividad 1. ¿aire o agua?" width="990" height="572" alt="Actividad 1. ¿aire o agua?" />
+<figcaption class="figcaption">Angélica Rojas. <span class="title"><em>Actividad 1. ¿aire o agua?</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p> Teniendo en cuenta este video, <strong><span style="color: #ba372a;">¿podrías decir cómo funcionan las puertas de un autobús, apertura y cierrre?</span></strong></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_y3nkrvwjh"><iframe width="300" height="150" src="https://www.youtube.com/embed/icBKZqyYb0o" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author"> Superalejandro</span>. <a href="https://www.youtube.com/watch?v=icBKZqyYb0o" target="_blank" class="title" rel="noopener"><em>Funcionamiento de puertas eléctricas de autobús interurbano </em></a> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Enviar">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p> Teniendo en cuenta este video, <strong><span style="color: #e67e23;">¿podrías decir cómo funcionan las puertas de un autobús, apertura y cierrre?</span></strong></p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-mox5hizb-ips6zq4e5","typeGame":"Case study","history":"<p>Según las fotografías dadas deberás descubrir qué tipo de sistema usan: Neumático o Hidraúlico y deberás añadirla en la ficha de clase. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 990px; text-align: center;\"><img src=\"{{context_path}}/content/resources/actividad 1-fotos.JPG\" title=\"Actividad 1. ¿aire o agua?\" width=\"990\" height=\"572\" alt=\"Actividad 1. ¿aire o agua?\" />\n<figcaption class=\"figcaption\">Angélica Rojas. <span class=\"title\"><em>Actividad 1. ¿aire o agua?</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textInfoDurationInput":"","textInfoDurationTextInput":"","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"","activities":[{"activity":"<p> Teniendo en cuenta este video, <strong><span style=\"color: #ba372a;\">¿podrías decir cómo funcionan las puertas de un autobús, apertura y cierrre?</span></strong></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_y3nkrvwjh\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/icBKZqyYb0o\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\"> Superalejandro</span>. <a href=\"https://www.youtube.com/watch?v=icBKZqyYb0o\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Funcionamiento de puertas eléctricas de autobús interurbano </em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","feedback":"<p> Teniendo en cuenta este video, <strong><span style=\"color: #e67e23;\">¿podrías decir cómo funcionan las puertas de un autobús, apertura y cierrre?</span></strong></p>","buttonCaption":"Enviar"}]}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyev3-hziocoq8j</odePageId>
+  <odeParentPageId>page-moyoyeuw-73ajum9u1</odeParentPageId>
+  <pageName>Protección de datos y huella digital</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y huella digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos y huella digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyev3-hziocoq8j</odePageId>
+      <odeBlockId>block-mox5hizb-2r5l1rs6t</odeBlockId>
+      <blockName>Información a tener en cuenta</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev3-hziocoq8j</odePageId>
+          <odeBlockId>block-mox5hizb-2r5l1rs6t</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizb-3q2t85go9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px; text-align: center;"><img src="{{context_path}}/content/resources/Supervivencia Digital Educativa.jpg" title="Protección de datos y huella digital" width="800" height="2000" alt="Huella digital " style="text-align: center;" /></figure>
+<figure class="exe-figure position-center" style="width: 800px; text-align: center;">
+<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Protección de datos y huella digital</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizb-3q2t85go9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Supervivencia Digital Educativa.jpg\" title=\"Protección de datos y huella digital\" width=\"800\" height=\"2000\" alt=\"Huella digital \" style=\"text-align: center;\" /></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\">\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Protección de datos y huella digital</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+  <odeParentPageId>page-moyoyeuw-73ajum9u1</odeParentPageId>
+  <pageName>¿Aire o aceite?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Aire o aceite?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conoces estos plásticos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Aire o aceite?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odeBlockId>block-mox5hizb-9we5ssol8</odeBlockId>
+      <blockName>Conocimiento previo</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odeBlockId>block-mox5hizb-9we5ssol8</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizb-5i2xcyj9e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #169179;"><strong>"¿Qué tiene más fuerza, el aire o el aceite? </strong></span></p>
+<p style="text-align: center;"><span style="color: #169179;"><strong>¿Por qué la prensa aplasta un juguete y la puerta del bus solo hace 'pssssh' y no te rompe el brazo?"</strong></span></p>
+<p></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_3iq2we2dq"><iframe width="560" height="314" src="https://www.youtube.com/embed/q9BtYEnrkg4?t=11s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author"> Hydraulic Press Channel</span>. <span class="title"><em>Presa hidrúlica </em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizb-5i2xcyj9e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #169179;\"><strong>\"¿Qué tiene más fuerza, el aire o el aceite? </strong></span></p>\n<p style=\"text-align: center;\"><span style=\"color: #169179;\"><strong>¿Por qué la prensa aplasta un juguete y la puerta del bus solo hace 'pssssh' y no te rompe el brazo?\"</strong></span></p>\n<p></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_3iq2we2dq\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/q9BtYEnrkg4?t=11s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\"> Hydraulic Press Channel</span>. <span class=\"title\"><em>Presa hidrúlica </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odeBlockId>block-mox5hizb-6aqobghqb</odeBlockId>
+      <blockName>Sistemas neumáticos</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odeBlockId>block-mox5hizb-6aqobghqb</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizb-jrmti7s88</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sistemas neumáticos: </strong></p>
+<p>La neumática se emplea para transmitir fuerza y realizar trabajo por medio de aire comprimido </p>
+<figure class="exe-figure position-center" style="width: 844px; text-align: center;"><img src="{{context_path}}/content/resources/mceclip0.png" title="Sistemas neumáticos" width="844" height="279" alt="" />
+<figcaption class="figcaption"><span class="author">Libro Donostiarra</span>. <span class="title"><em>Sistemas neumátivos</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure position-center" style="width: 711px; text-align: center;"><img src="{{context_path}}/content/resources/ventajas.JPG" title="Ventajas e inconvenientes" width="711" height="420" alt="Ventajas e inconvenientes" />
+<figcaption class="figcaption"><span class="author">Libro Donostiarra 4º ESO</span>. <span class="title"><em>Ventajas e inconvenientes</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizb-jrmti7s88","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sistemas neumáticos: </strong></p>\n<p>La neumática se emplea para transmitir fuerza y realizar trabajo por medio de aire comprimido </p>\n<figure class=\"exe-figure position-center\" style=\"width: 844px; text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" title=\"Sistemas neumáticos\" width=\"844\" height=\"279\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Libro Donostiarra</span>. <span class=\"title\"><em>Sistemas neumátivos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure position-center\" style=\"width: 711px; text-align: center;\"><img src=\"{{context_path}}/content/resources/ventajas.JPG\" title=\"Ventajas e inconvenientes\" width=\"711\" height=\"420\" alt=\"Ventajas e inconvenientes\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Libro Donostiarra 4º ESO</span>. <span class=\"title\"><em>Ventajas e inconvenientes</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odeBlockId>block-1778262597172-bz2iqujwo</odeBlockId>
+      <blockName>Selecciona la opción correcta</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odeBlockId>block-1778262597172-bz2iqujwo</odeBlockId>
+          <odeIdeviceId>idevice-1778262597171-fsqt5b9yr</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="selecciona-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778262597171-fsqt5b9yr" data-evaluationb="false" data-evaluationid="b90d53ac-8c49-49d1-aae8-346b7ce877cb"></div><div class="selecciona-instructions SLCNP-instructions"><p>Elige las respuestas correctas y haz clic en el botón para comprobarlas.</p></div><div class="selecciona-version js-hidden">undefined</div><div class="selecciona-feedback-game"></div><div class="selecciona-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D7%FE%FB%F5%F7%B7%A0%A2%FE%F3%E1%B7%A0%A2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B7%A0%A2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B7%A0%A2%EB%B7%A0%A2%FA%F3%E8%B7%A0%A2%F1%FE%FB%F1%B7%A0%A2%F7%FC%B7%A0%A2%F7%FE%B7%A0%A2%F0%FD%E6%B7%D4%A1%FC%B7%A0%A2%E2%F3%E0%F3%B7%A0%A2%F1%FD%FF%E2%E0%FD%F0%F3%E0%FE%F3%E1%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D7%FE%FB%F5%F7%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%EB%B2%FA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F0%FD%E6a%FC%B2%E2%F3%E0%F3%B2%F1%FD%FF%E2%E0%FD%F0%F3%E0%FE%F3%E1%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E1%F7%FE%F7%F1%E6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C6%FB%E2%FD%B2%F6%F7%B2%F4%FE%E7%FB%F6%FD%A8%B2%F3%F1%F7%FB%E6%F7%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D1%FB%E0%F1%E7%FB%E6%FD%B2%F7%FE%7B%F1%E6%E0%FB%F1%FD%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%B2%F3%E7%E6%FD%FFs%E6%FB%F1%FD%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DC%F7%E7%FFs%E6%FB%F1%FD%E1%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DA%FB%F6%E0%F3h%FE%FB%F1%FD%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D6%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C0%F7%E6%FD%E0%FC%FD%B2%F6%F7%FE%B2%F4%FE%E7%FB%F6%FD%A8%B2%C1%F7%B2%F7%FC%E4%7F%F3%B2%F3%FE%B2%F7%EA%E6%F7%E0%FB%FD%E0%B2%F3%B2%E6%E0%F3%E4%7B%E1%B2%F6%F7%B2%FE%FD%E1%B2%F7%E1%F1%F3%E2%F7%E1%BC%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D1%FB%E0%F1%E7%FB%E6%FD%B2%F7%FE%7B%F1%E6%E0%FB%F1%FD%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%B2%F3%E7%E6%FD%FFs%E6%FB%F1%FD%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DC%F7%E7%FFs%E6%FB%F1%FD%E1%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DA%FB%F6%E0%F3h%FE%FB%F1%FD%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D1%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C0%E7%FB%F6%FD%A8%B2%DE%FD%E1%B2%F7%E1%F1%F3%E2%F7%E1%B2%F3%B2%FE%F3%B2%F3%E6%FFa%E1%F4%F7%E0%F3%B2%E1%FD%FC%B2%FF%FD%FE%F7%E1%E6%FD%E1%BC%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D7%FE%7B%F1%E6%E0%FB%F1%FD%B0%BE%B0%D3%E7%E6%FD%FFs%E6%FB%F1%FD%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DC%F7%E7%FFs%E6%FB%F1%FD%E1%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DA%FB%F6%E0%F3h%FE%FB%F1%FD%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D1%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C6%E0%F3%FC%E1%FF%FB%E1%FBa%FC%A8%B2%DE%F3%B2%F6%FB%E1%E6%F3%FC%F1%FB%F3%B2%F3%B2%FE%F3%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%B2%FD%E2%F7%E0%F3%E0%B2%F7%FE%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%F7%E1%B2%FF%E7%F1%FA%FD%B2%FFs%E1%B2%F1%FD%E0%E6%F3%BE%B2%E1%FB%F7%FC%F6%FD%B2%F4%E0%F7%F1%E7%F7%FC%E6%F7%B2%E3%E7%F7%B2%F1%F3%F6%F3%B2%FFs%E3%E7%FB%FC%F3%B2%E6%F7%FC%F5%F3%B2%E1%E7%B2%E2%E0%FD%E2%FB%F3%B2%F0%FD%FF%F0%F3%BC%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D7%FE%7B%F1%E6%E0%FB%F1%FD%B0%BE%B0%D3%E7%E6%FD%FFs%E6%FB%F1%FD%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DC%F7%E7%FFs%E6%FB%F1%FD%E1%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DA%FB%F6%E0%F3h%FE%FB%F1%FD%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D6%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%DF%FD%E4%FB%FF%FB%F7%FC%E6%FD%E1%A8%B2%C2%E0%F7%E1%FB%FD%FC%F7%E1%B2%FFs%E1%B2%F0%F3%F8%F3%E1%BC%B2%DF%FD%E4%FB%FF%FB%F7%FC%E6%FD%E1%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%E1%B2%E2%F7%E0%FD%B2%FF%F7%FC%FD%E1%B2%E2%E0%F7%F1%FB%E1%FD%E1%BC%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D3%E7%E6%FD%FFs%E6%FB%F1%FD%B0%BE%B0%D7%FE%7B%F1%E6%E0%FB%F1%FD%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DC%F7%E7%FFs%E6%FB%F1%FD%E1%B0%BE%B0%D1%FB%E0%F1%E7%FB%E6%FD%E1%B2%DA%FB%F6%E0%F3h%FE%FB%F1%FD%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D1%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%FD%E0%F6%F7%E0%B0%A8%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A1%BC%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F3%E7%F6%FB%FD%D4%F7%F7%F6%D0%F3%F1%FA%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F0%AB%A2%F6%A7%A1%F3%F1%BF%AA%F1%A6%AB%BF%A6%AB%F6%A3%BF%F3%F3%F7%AA%BF%A1%A6%A4%F0%A5%F1%F7%AA%A5%A5%F1%F0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A0%A4%A0%A7%AB%A5%A3%A5%A3%BF%F4%E1%E3%E6%A7%F0%AB%EB%E0%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%7F%F6%F7%FD%B2%F6%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C0%FB%F1%F9%C6%F7%EA%E6%B0%A8%B0%C6%F7%EA%E6%FD%B2%F7%FC%E0%FB%E3%E7%F7%F1%FB%F6%FD%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%DD%E0%F6%F7%E0%E1%B0%A8%B0%DD%E0%F6%F7%FC%F3%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%EF%EF</div><div class="selecciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odeBlockId>block-1778263599028-seysg9z7u</odeBlockId>
+      <blockName>Elementos de los sistemas neumáticos-hidraúlicos</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odeBlockId>block-1778263599028-seysg9z7u</odeBlockId>
+          <odeIdeviceId>idevice-1778263599027-vexnw52tz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1536px; text-align: center;"><img src="{{context_path}}/content/resources/1.png" title="Elementos de control" width="1536" height="1988" alt="Elementos de control" />
+<figcaption class="figcaption"><span class="author">Libro Donostiarra</span>. <span class="title"><em>Elementos de control</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure position-center" style="width: 1536px; text-align: center;"><img src="{{context_path}}/content/resources/2.png" title="Elementos de control" width="1536" height="1988" alt="Elementos de control" />
+<figcaption class="figcaption"><span class="author">Libro Donostiarra 4º ESO</span>. <span class="title"><em>Elementos de control</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263599027-vexnw52tz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1536px; text-align: center;\"><img src=\"{{context_path}}/content/resources/1.png\" title=\"Elementos de control\" width=\"1536\" height=\"1988\" alt=\"Elementos de control\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Libro Donostiarra</span>. <span class=\"title\"><em>Elementos de control</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px; text-align: center;\"><img src=\"{{context_path}}/content/resources/2.png\" title=\"Elementos de control\" width=\"1536\" height=\"1988\" alt=\"Elementos de control\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Libro Donostiarra 4º ESO</span>. <span class=\"title\"><em>Elementos de control</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+  <odeParentPageId>page-moyoyev4-305bkn5rt</odeParentPageId>
+  <pageName>Aplicaciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aplicaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clasificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Aplicaciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+      <odeBlockId>block-mox5hizc-uihbss4zc</odeBlockId>
+      <blockName>Aplicaciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+          <odeBlockId>block-mox5hizc-uihbss4zc</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizc-nlz3n3apo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><img src="{{context_path}}/content/resources/aplicaciones.JPG" title="Aplicaciones " width="868" height="414" alt="Aplicaciones " style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<figure class="exe-figure position-center" style="width: 877px; text-align: center;"><img src="{{context_path}}/content/resources/aplicaciones1.JPG" title="Aplicaciones " width="877" height="412" alt="Aplicaciones " />
+<figcaption class="figcaption"><span class="author">Libro Donostiarra 4º ESO</span>. <span class="title"><em>Aplicaciones </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure position-center" style="width: 775px; text-align: center;"><img src="{{context_path}}/content/resources/aplicaciones2.JPG" width="775" height="410" alt="Libro Donostiarra 4º ESO. Aplicaciones (CC BY)" title="Libro Donostiarra 4º ESO. Aplicaciones (CC BY)" />
+<figcaption class="figcaption"><span class="author">Libro Donostiarra 4º ESO. </span>. <span class="title"><em>Libro Donostiarra 4º ESO.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizc-nlz3n3apo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/aplicaciones.JPG\" title=\"Aplicaciones \" width=\"868\" height=\"414\" alt=\"Aplicaciones \" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 877px; text-align: center;\"><img src=\"{{context_path}}/content/resources/aplicaciones1.JPG\" title=\"Aplicaciones \" width=\"877\" height=\"412\" alt=\"Aplicaciones \" />\n<figcaption class=\"figcaption\"><span class=\"author\">Libro Donostiarra 4º ESO</span>. <span class=\"title\"><em>Aplicaciones </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure position-center\" style=\"width: 775px; text-align: center;\"><img src=\"{{context_path}}/content/resources/aplicaciones2.JPG\" width=\"775\" height=\"410\" alt=\"Libro Donostiarra 4º ESO. Aplicaciones (CC BY)\" title=\"Libro Donostiarra 4º ESO. Aplicaciones (CC BY)\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Libro Donostiarra 4º ESO. </span>. <span class=\"title\"><em>Libro Donostiarra 4º ESO.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+      <odeBlockId>block-mox5hizd-b1pszbys4</odeBlockId>
+      <blockName>Reflexion</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+          <odeBlockId>block-mox5hizd-b1pszbys4</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizd-tmjuupxps</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"Sois los ingenieros de una fábrica de latas. Queremos un cilindro que expulse las latas defectuosas y vuelva súper rápido a su sitio para no chocar con la siguiente."</p>
+<p><span style="color: #843fa1;"><strong>¿Qué compráis, un cilindro de simple efecto (con muelle) o de doble efecto? ¿Por qué?</strong></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizd-tmjuupxps","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"Sois los ingenieros de una fábrica de latas. Queremos un cilindro que expulse las latas defectuosas y vuelva súper rápido a su sitio para no chocar con la siguiente.\"</p>\n<p><span style=\"color: #843fa1;\"><strong>¿Qué compráis, un cilindro de simple efecto (con muelle) o de doble efecto? ¿Por qué?</strong></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyevb-ed1314nhx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo se fabrican?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyevb-ed1314nhx</odePageId>
+      <odeBlockId>block-1778343085298-96ewb051t</odeBlockId>
+      <blockName>Reto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevb-ed1314nhx</odePageId>
+          <odeBlockId>block-1778343085298-96ewb051t</odeBlockId>
+          <odeIdeviceId>idevice-1778343085297-xk19b2pbk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el proyecto de Circuitos Neumáticos, los alumnos deberán <strong><span style="color: #e67e23;">crear el proyecto físicamente,</span></strong> con lo que deberán ir haciendo fotos del progreso y montaje y una vez terminado deberán realizar un video usando Google Vids. </p>
+<figure class="exe-figure position-center" style="width: 300px;"><img src="{{context_path}}/content/resources/vids.JPG" title="Google VIDS" width="300" height="111" alt="Google VIDS" />
+<figcaption class="figcaption"><a href="https://workspace.google.com/intl/es/products/vids/" class="author" target="_blank" rel="noopener">https://workspace.google.com/intl/es/products/vids/</a>. <span class="title"><em>Google VIDS</em></span></figcaption>
+</figure>
+<p>Diseño de una línea de montaje automatizada mediante un simulador que cumpla con criterios de ahorro energético. Y realización del proyecto en el taller en el cual van a entender cómo funciona la hidráulica y neumática que es más fácil de analizar, usando para ello un brazo hidráulico. </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px; text-align: center;" id="fig_3y254omeb"><iframe width="560" height="314" src="https://www.youtube.com/embed/J6Ink5uAi6s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">ProyectosFaciles</span>. <span class="title"><em>ProyectosFaciles</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px; text-align: center;" id="fig_9raqzo174"><iframe width="560" height="314" src="https://www.youtube.com/embed/u6F8uyhLisk?time_continue=1&source_ve_path=NzY3NTg&embeds_referring_euri=https" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Cortés Creativo</span>. <span class="title"><em>Cortés Creativo</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px; text-align: center;" id="fig_b6acx9sgx"><iframe width="560" height="314" src="https://www.youtube.com/embed/Do0a46PudbE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Sagaz Perenne</span>. <span class="title"><em>Sagaz Perenne</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343085297-xk19b2pbk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el proyecto de Circuitos Neumáticos, los alumnos deberán <strong><span style=\"color: #e67e23;\">crear el proyecto físicamente,</span></strong> con lo que deberán ir haciendo fotos del progreso y montaje y una vez terminado deberán realizar un video usando Google Vids. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/vids.JPG\" title=\"Google VIDS\" width=\"300\" height=\"111\" alt=\"Google VIDS\" />\n<figcaption class=\"figcaption\"><a href=\"https://workspace.google.com/intl/es/products/vids/\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://workspace.google.com/intl/es/products/vids/</a>. <span class=\"title\"><em>Google VIDS</em></span></figcaption>\n</figure>\n<p>Diseño de una línea de montaje automatizada mediante un simulador que cumpla con criterios de ahorro energético. Y realización del proyecto en el taller en el cual van a entender cómo funciona la hidráulica y neumática que es más fácil de analizar, usando para ello un brazo hidráulico. </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px; text-align: center;\" id=\"fig_3y254omeb\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/J6Ink5uAi6s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">ProyectosFaciles</span>. <span class=\"title\"><em>ProyectosFaciles</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px; text-align: center;\" id=\"fig_9raqzo174\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/u6F8uyhLisk?time_continue=1&source_ve_path=NzY3NTg&embeds_referring_euri=https\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Cortés Creativo</span>. <span class=\"title\"><em>Cortés Creativo</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px; text-align: center;\" id=\"fig_b6acx9sgx\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Do0a46PudbE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Sagaz Perenne</span>. <span class=\"title\"><em>Sagaz Perenne</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyevc-pg4kjp4xg</odePageId>
+  <odeParentPageId>page-moyoyevb-ed1314nhx</odeParentPageId>
+  <pageName>Simulaciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Simulaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Simulaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyevc-pg4kjp4xg</odePageId>
+      <odeBlockId>block-1778341191169-y7ilvdbs1</odeBlockId>
+      <blockName>Simulaciones</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevc-pg4kjp4xg</odePageId>
+          <odeBlockId>block-1778341191169-y7ilvdbs1</odeBlockId>
+          <odeIdeviceId>idevice-1778341191168-9e5jbqvqk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Simula los siguientes circuitos usando un porgrama online de simulación.</p>
+<p>Guarda la simulación en classroom en la tarea programada. </p>
+<p>Puede usar el siguiente programa: </p>
+<p><a href="https://www.picuino.com/neumatic/index.html" title="Picuino" target="_blank" rel="noopener">https://www.picuino.com/neumatic/index.html</a></p>
+<figure class="exe-figure position-center" style="width: 884px; text-align: center;"><img src="{{context_path}}/content/resources/simulacion1.JPG" title="Simulación. Circuito 1" width="884" height="499" alt="Simulación. Circuito 1" />
+<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Simulación. Circuito 1</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure position-center" style="width: 600px; text-align: center;"><img src="{{context_path}}/content/resources/simulacion2.JPG" title="Simulación. Circuito 2" width="600" height="583" alt="Simulación. Circuito 2" />
+<figcaption class="figcaption"><span class="author">Angélica Rojas </span>. <span class="title"><em>Simulación. Circuito 2</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778341191168-9e5jbqvqk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Simula los siguientes circuitos usando un porgrama online de simulación.</p>\n<p>Guarda la simulación en classroom en la tarea programada. </p>\n<p>Puede usar el siguiente programa: </p>\n<p><a href=\"https://www.picuino.com/neumatic/index.html\" title=\"Picuino\" target=\"_blank\" rel=\"noopener\">https://www.picuino.com/neumatic/index.html</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 884px; text-align: center;\"><img src=\"{{context_path}}/content/resources/simulacion1.JPG\" title=\"Simulación. Circuito 1\" width=\"884\" height=\"499\" alt=\"Simulación. Circuito 1\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Simulación. Circuito 1</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure position-center\" style=\"width: 600px; text-align: center;\"><img src=\"{{context_path}}/content/resources/simulacion2.JPG\" title=\"Simulación. Circuito 2\" width=\"600\" height=\"583\" alt=\"Simulación. Circuito 2\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas </span>. <span class=\"title\"><em>Simulación. Circuito 2</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyevd-o3u5ry6am</odePageId>
+  <odeParentPageId>page-moyoyevb-ed1314nhx</odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Técnicas de fabricación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyevd-o3u5ry6am</odePageId>
+      <odeBlockId>block-mox5hizd-v2h409jix</odeBlockId>
+      <blockName>Línea temporal organización del proyecto</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevd-o3u5ry6am</odePageId>
+          <odeBlockId>block-mox5hizd-v2h409jix</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizd-qoi3b6fqn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Digital Mind Map - SdA5 Pinzas Hidráulicas.png" title="Línea temporal del proyecto" width="800" height="2000" alt="Línea temporal del proyecto" />
+<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Línea temporal del proyecto</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizd-qoi3b6fqn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Digital Mind Map - SdA5 Pinzas Hidráulicas.png\" title=\"Línea temporal del proyecto\" width=\"800\" height=\"2000\" alt=\"Línea temporal del proyecto\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Línea temporal del proyecto</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyeve-svqdx5q58</odePageId>
+  <odeParentPageId>page-moyoyevb-ed1314nhx</odeParentPageId>
+  <pageName>Pautas DUA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pautas DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pautas DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Pautas DUA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyeve-svqdx5q58</odePageId>
+      <odeBlockId>block-1778345555621-sq5em9ftc</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyeve-svqdx5q58</odePageId>
+          <odeBlockId>block-1778345555621-sq5em9ftc</odeBlockId>
+          <odeIdeviceId>idevice-1778345555621-754ipma7p</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><span style="color: #e67e23;"><strong>1. Proporcionar múltiples formas de COMPROMISO (El "Porqué")</strong></span><br>Este principio busca captar el interés y mantener el esfuerzo.</p>
+<ul>
+<li><strong>Autonomía en el diseño:</strong> Aunque el mecanismo sea el mismo (hidráulico), permite que cada equipo decida qué "objeto" deben coger las pinzas (una lata, una pelota, un huevo). Esto personaliza el reto.</li>
+<li><strong>Roles rotativos y relevantes:</strong> Utilizamos los roles que definimos en el mapa mental (Coordinador, Secretario, etc.).</li>
+<li><strong>Ambiente de taller seguro:</strong> Crear un "muro de errores célebres" (en Padlet o físico) donde los grupos compartan dónde fallaron y cómo lo arreglaron, normalizando el error como parte del proceso técnico. Según la memoria que se ha ido rellenando cad día de trabajo en el taller.</li>
+</ul>
+<p><span style="color: #e67e23;"><strong>2. Proporcionar múltiples formas de REPRESENTACIÓN (El "Qué")</strong></span><br></p>
+<ul>
+<li>Visual: El video de YouTube.</li>
+<li>Auditivo/Vídeo: Crear códigos QR pegados en los bancos de trabajo que lleven a micro-tutoriales de 30 segundos sobre "Cómo purgar la jeringa" o "Cómo cortar el listón".</li>
+<li>Táctil: Tener un modelo ya construido (un "producto mínimo viable") que puedan tocar y manipular para entender el movimiento antes de empezar a construir.</li>
+</ul>
+<p><br><span style="color: #169179;"><strong>Glosario de apoyo:</strong></span> términos clave (Presión, Caudal, Émbolo) apoyada con iconos o imágenes para facilitar la comprensión.</p>
+<p><br><span style="color: #e67e23;"><strong>3. Proporcionar múltiples formas de ACCIÓN Y EXPRESIÓN (El "Cómo")</strong></span><br>Permite que demuestren lo que han aprendido de distintas formas.</p>
+<p>Los alumnos deben rellenar brevemente cad día el trabajo realizado. Podrán además crear:</p>
+<ul>
+<li>Un vídeo demostrativo explicando el funcionamiento (estilo YouTuber técnico).</li>
+<li>Un diario de construcción fotográfico en Instagram o una presentación de diapositivas.</li>
+<li>Un póster técnico con el despiece del sistema.<br><br></li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyevf-fqs5xxvx6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyevf-fqs5xxvx6</odePageId>
+      <odeBlockId>block-1778346088832-4vfvdq04d</odeBlockId>
+      <blockName>Observaciones y recomendaciones</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevf-fqs5xxvx6</odePageId>
+          <odeBlockId>block-1778346088832-4vfvdq04d</odeBlockId>
+          <odeIdeviceId>idevice-1778346088831-zhwjkje4k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para facilitar la implementación en el aula por otros docentes, se recomiendan las siguientes pautas:</p>
+<ul>
+<li><strong>Gestión del Espacio:</strong> El taller debe dividirse por parejas donde cada grupo tiene su espacio de trabajo, la mesa deberá tener una "Zona de Sucio" (corte y pegado) y una "Zona Limpia" (documentación digital). Esto evita daños en los equipos informáticos.</li>
+<li><strong>Agrupamientos Dinámicos:</strong> se recomienda fomentar la cooperación inter-grupal.<br /></li>
+</ul>
+<p><strong>Atención a la Diversidad (DUA):</strong></p>
+<ul>
+<li>Permitir que la presentación sea un vídeo grabado previamente si el alumno presenta ansiedad ante la exposición oral.</li>
+<li>Andamiaje: Proporcionar un "Kit de Supervivencia" con plantillas de los planos para alumnos que tengan dificultades con el dibujo técnico.</li>
+<li>Evaluación Formativa: Utilizar cada sesión para que los alumnos sepan si su progreso se alinea con los criterios.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346088831-zhwjkje4k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para facilitar la implementación en el aula por otros docentes, se recomiendan las siguientes pautas:</p>\n<ul>\n<li><strong>Gestión del Espacio:</strong> El taller debe dividirse por parejas donde cada grupo tiene su espacio de trabajo, la mesa deberá tener una \"Zona de Sucio\" (corte y pegado) y una \"Zona Limpia\" (documentación digital). Esto evita daños en los equipos informáticos.</li>\n<li><strong>Agrupamientos Dinámicos:</strong> se recomienda fomentar la cooperación inter-grupal.<br /></li>\n</ul>\n<p><strong>Atención a la Diversidad (DUA):</strong></p>\n<ul>\n<li>Permitir que la presentación sea un vídeo grabado previamente si el alumno presenta ansiedad ante la exposición oral.</li>\n<li>Andamiaje: Proporcionar un \"Kit de Supervivencia\" con plantillas de los planos para alumnos que tengan dificultades con el dibujo técnico.</li>\n<li>Evaluación Formativa: Utilizar cada sesión para que los alumnos sepan si su progreso se alinea con los criterios.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyevf-utdnd7dwu</odePageId>
+  <odeParentPageId>page-moyoyevf-fqs5xxvx6</odeParentPageId>
+  <pageName>Criterios de Evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyevf-utdnd7dwu</odePageId>
+      <odeBlockId>block-1778345149159-py105fqjg</odeBlockId>
+      <blockName>Relación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevf-utdnd7dwu</odePageId>
+          <odeBlockId>block-1778345149159-py105fqjg</odeBlockId>
+          <odeIdeviceId>idevice-1778345149158-m5b4p4odc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1176px;"><img src="{{context_path}}/content/resources/criterios.JPG" title="Relaciones de Criterios de evaluación con Competencias y saberes básicos" width="1176" height="718" alt="Relaciones de Criterios de evaluación con Competencias y saberes básicos" />
+<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Relaciones de Criterios de evaluación con Competencias y saberes básicos</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778345149158-m5b4p4odc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1176px;\"><img src=\"{{context_path}}/content/resources/criterios.JPG\" title=\"Relaciones de Criterios de evaluación con Competencias y saberes básicos\" width=\"1176\" height=\"718\" alt=\"Relaciones de Criterios de evaluación con Competencias y saberes básicos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Relaciones de Criterios de evaluación con Competencias y saberes básicos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autoría y Licencia</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría y Licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría y Licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+      <odeBlockId>block-mox5hizd-0d8pv5xon</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+          <odeBlockId>block-mox5hizd-0d8pv5xon</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizd-hdss3xw50</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Angélica Rojas</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Angélica Rojas</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+      <odeBlockId>block-mox5hize-ynqm5npqv</odeBlockId>
+      <blockName>Licencia</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+          <odeBlockId>block-mox5hize-ynqm5npqv</odeBlockId>
+          <odeIdeviceId>idevice-mox5hize-tzccg8wkr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Creative Commons </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hize-tzccg8wkr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Creative Commons </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+      <odeBlockId>block-1778346462926-clugfd5yl</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+          <odeBlockId>block-1778346462926-clugfd5yl</odeBlockId>
+          <odeIdeviceId>idevice-1778346462925-siwun72q6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una fábrica local quiere reducir su huella de carbono sustituyendo motores eléctricos ineficientes por sistemas neumáticos de bajo consumo o hidráulicos de alta precisión.</p>
+<p>Los alumnos deberán crear un brazo hidraúlico- Neumático que simule cómo funcionaría. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346462925-siwun72q6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una fábrica local quiere reducir su huella de carbono sustituyendo motores eléctricos ineficientes por sistemas neumáticos de bajo consumo o hidráulicos de alta precisión.</p>\n<p>Los alumnos deberán crear un brazo hidraúlico- Neumático que simule cómo funcionaría. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+  <odeParentPageId>page-moyoyevg-lm4bkjuny</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+      <odeBlockId>block-moyo7z9k-muta2mlda</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+          <odeBlockId>block-moyo7z9k-muta2mlda</odeBlockId>
+          <odeIdeviceId>idevice-moyo7z9k-37ugtrdq8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><br /></h1>
+<table class="exe-table" style="width: 88.5948%; height: 463.2px;"><caption></caption>
+<tbody>
+<tr style="height: 40.8px;">
+<th style="width: 33.0861%; height: 40.8px;">Título</th>
+<td style="width: 66.8238%; height: 40.8px;">Circuitos Neumáticos - Hidráulicos</td>
+</tr>
+<tr style="height: 112.8px;">
+<th style="width: 33.0861%; height: 112.8px;">Descripción</th>
+<td style="width: 66.8238%; height: 112.8px;">
+<p>El proyecto se desarrolla en la materia de Tecnología, para 4º ESO, vinculando directamente con los contenidos de neumática e hidráulica. La implicación de las áreas de Física y Química y Matemáticas se justifica por la necesidad de comprender definiciones técnicas y el funcionamiento físico de los fluidos, conceptos que se introducen al inicio de la unidad.<br /></p>
+<p>El producto Final es el diseño de una línea de montaje automatizada mediante un simulador que cumpla con criterios de ahorro energético. Y la realización del proyecto en el taller en el cual van a entender cómo funciona la hidráulica y neumática que es más fácil de analizar, usando para ello un brazo hidráulico. <br /></p>
+</td>
+</tr>
+<tr style="height: 40.8px;">
+<th style="width: 33.0861%; height: 40.8px;">Persona elaboradora de contenido</th>
+<td style="width: 66.8238%; height: 40.8px;">Angélica Rojas Casallas</td>
+</tr>
+<tr style="height: 40.8px;">
+<th style="width: 33.0861%; height: 40.8px;">Licencia</th>
+<td style="width: 66.8238%; height: 40.8px;"><a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: right;"><img src="{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg" alt="Logo Andalucía se mueve con Europa" title="Logo Andalucía se mueve con Europa" width="299" height="79" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-moyo7z9k-37ugtrdq8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><br /></h1>\n<table class=\"exe-table\" style=\"width: 88.5948%; height: 463.2px;\"><caption></caption>\n<tbody>\n<tr style=\"height: 40.8px;\">\n<th style=\"width: 33.0861%; height: 40.8px;\">Título</th>\n<td style=\"width: 66.8238%; height: 40.8px;\">Circuitos Neumáticos - Hidráulicos</td>\n</tr>\n<tr style=\"height: 112.8px;\">\n<th style=\"width: 33.0861%; height: 112.8px;\">Descripción</th>\n<td style=\"width: 66.8238%; height: 112.8px;\">\n<p>El proyecto se desarrolla en la materia de Tecnología, para 4º ESO, vinculando directamente con los contenidos de neumática e hidráulica. La implicación de las áreas de Física y Química y Matemáticas se justifica por la necesidad de comprender definiciones técnicas y el funcionamiento físico de los fluidos, conceptos que se introducen al inicio de la unidad.<br /></p>\n<p>El producto Final es el diseño de una línea de montaje automatizada mediante un simulador que cumpla con criterios de ahorro energético. Y la realización del proyecto en el taller en el cual van a entender cómo funciona la hidráulica y neumática que es más fácil de analizar, usando para ello un brazo hidráulico. <br /></p>\n</td>\n</tr>\n<tr style=\"height: 40.8px;\">\n<th style=\"width: 33.0861%; height: 40.8px;\">Persona elaboradora de contenido</th>\n<td style=\"width: 66.8238%; height: 40.8px;\">Angélica Rojas Casallas</td>\n</tr>\n<tr style=\"height: 40.8px;\">\n<th style=\"width: 33.0861%; height: 40.8px;\">Licencia</th>\n<td style=\"width: 66.8238%; height: 40.8px;\"><a rel=\"license noopener\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p style=\"text-align: right;\"><img src=\"{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg\" alt=\"Logo Andalucía se mueve con Europa\" title=\"Logo Andalucía se mueve con Europa\" width=\"299\" height=\"79\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+      <odeBlockId>block-moyo2ei1-88vke2u30</odeBlockId>
+      <blockName>Aquí tienes el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+          <odeBlockId>block-moyo2ei1-88vke2u30</odeBlockId>
+          <odeIdeviceId>idevice-moyo2ei1-g5ce0h8k3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p style="text-align: center;"><br></p>
+<ul>
+<li><span style="font-size: 14pt;">Este Proyecto se ha publicado bajo <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" onclick="browseURL(this); return false;" target="_blank" rel="noopener">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 14pt;">Esto significa que tienes la posibilidad de poder usarlo, descargarlo, redistribuirlo y modificarlo para adaptarlo a tus necesidades.</span><span style="font-size: 14pt;"></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 14pt;">Sigue estos pasos para usar/redistribuir/modificar este REA:</span><span style="font-size: 14pt;"></span></li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">1.</span></strong> Descarga el archivo fuente. Con esto tienes el recurso original en formato editable.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">2.</span></strong> Modifícalo </span><span style="font-size: 14pt;">usando </span><a href="http://exelearning.net/" target="_blank" title="Accede a la web de eXeLearning (abre en nueva ventana)" rel="noopener" style="font-size: 14pt;">eXeLearning</a><span style="font-size: 14pt;">.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">3.</span></strong> Si aun no lo tienes, descarga e instala&nbsp;</span><span style="font-size: 14pt;">el <a href="https://edea.juntadeandalucia.es/bancorecursos/file/6d215d5c-1983-41e3-80d1-50572b852eb9/1/guia_crea_tu_rea_proyecto_rea_andalucia.zip/3_pautas_para_el_diseo.html" target="_blank" rel="noopener">estilo EducaAnd</a>.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">4.</span></strong>&nbsp;S</span><span style="font-size: 14pt;">i lo modificas, has de reconocer la autoría y</span><span style="font-size: 14pt;">&nbsp;publicarlo con la misma licencia (CC BY-SA-NC).</span></p>
+<p style="padding-left: 120px;"><span style="font-size: 14pt;"></span><span style="font-size: 14pt;">Puedes usar esta cita para referenciarlo:</span></p>
+<p style="padding-left: 120px;"><em><span style="font-size: 14pt;">Este REA es una adaptación del recurso original "Crea tu REA con calidad: guía para personas elaboradoras" del <a href="https://www.juntadeandalucia.es/educacion/portals/web/transformacion-digital-educativa/rea" target="_blank" title="Accede a la web del Proyecto REA Andalucía (abre en nueva ventana)" rel="noopener">Proyecto REA Andalucía</a> de la <a href="https://www.juntadeandalucia.es/educacion/portals/web/ced" target="_blank" rel="noopener">Consejería de Educación y Deporte</a> de la Junta de Andalucía, que lo distribuye bajo</span></em><em>&nbsp;<a rel="license noopener" href="http://creativecommons.org/licenses/by-sa/4.0/" style="font-size: 1.05em;" target="_blank">licencia de CC BY-SA-NC.</a></em></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
