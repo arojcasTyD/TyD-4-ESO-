@@ -6,8 +6,9 @@ window.__ELPX_MANIFEST__={
   "version": 1,
   "files": [
     "index.html",
-    "html/definicion.html",
     "html/proteccion-de-datos-y-huella-digital.html",
+    "html/definicion.html",
+    "html/tareas-curacion-de-contenidos.html",
     "html/aire-o-aceite.html",
     "html/aplicaciones.html",
     "html/proyecto.html",
@@ -16,6 +17,7 @@ window.__ELPX_MANIFEST__={
     "html/pautas-dua.html",
     "html/guia-didactica.html",
     "html/criterios-de-evaluacion.html",
+    "html/curacion-de-contenidos.html",
     "html/autoria-y-licencia.html",
     "html/creditos.html",
     "content.xml",

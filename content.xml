@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260509204240BB308G</value>
+    <value>20260510011924L6B4M5</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260509204240URXBCC</value>
+    <value>20260510011924EH9MD8</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778352152611</value>
+    <value>1778368116402</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+  <odePageId>page-moyygki9-me0ec34od</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Circuitos Neumático e Hidraúlicos</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odePageId>page-moyygki9-me0ec34od</odePageId>
       <odeBlockId>block-mox5hiz9-w9gzclx36</odeBlockId>
       <blockName>El reto de la automatización sostenible. La eficiencia energética en la industria.</blockName>
       <iconName>think</iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odePageId>page-moyygki9-me0ec34od</odePageId>
           <odeBlockId>block-mox5hiz9-w9gzclx36</odeBlockId>
           <odeIdeviceId>idevice-mox5hiza-9rg2g5lpk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -188,7 +188,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odePageId>page-moyygki9-me0ec34od</odePageId>
       <odeBlockId>block-1778260905910-1tgko85ny</odeBlockId>
       <blockName>¿Qué vas a aprender mientras haces la guía?</blockName>
       <iconName>diary</iconName>
@@ -217,7 +217,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odePageId>page-moyygki9-me0ec34od</odePageId>
           <odeBlockId>block-1778260905910-1tgko85ny</odeBlockId>
           <odeIdeviceId>idevice-1778260905909-llixgx4l3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -258,7 +258,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odePageId>page-moyygki9-me0ec34od</odePageId>
       <odeBlockId>block-1778261153575-sf7ld7xj2</odeBlockId>
       <blockName>Metodología</blockName>
       <iconName>present</iconName>
@@ -287,7 +287,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odePageId>page-moyygki9-me0ec34od</odePageId>
           <odeBlockId>block-1778261153575-sf7ld7xj2</odeBlockId>
           <odeIdeviceId>idevice-1778261153574-7rqp6i1dj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -318,7 +318,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odePageId>page-moyygki9-me0ec34od</odePageId>
       <odeBlockId>block-mox5hizd-p9yaceqok</odeBlockId>
       <blockName>Instrumentos de evaluación</blockName>
       <iconName>book</iconName>
@@ -347,7 +347,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odePageId>page-moyygki9-me0ec34od</odePageId>
           <odeBlockId>block-mox5hizd-p9yaceqok</odeBlockId>
           <odeIdeviceId>idevice-mox5hizd-4jki0a3ju</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -471,7 +471,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+      <odePageId>page-moyygki9-me0ec34od</odePageId>
       <odeBlockId>block-mox5hizd-nstrattew</odeBlockId>
       <blockName>Criterios de Evaluación</blockName>
       <iconName>book</iconName>
@@ -500,7 +500,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyeuw-73ajum9u1</odePageId>
+          <odePageId>page-moyygki9-me0ec34od</odePageId>
           <odeBlockId>block-mox5hizd-nstrattew</odeBlockId>
           <odeIdeviceId>idevice-mox5hizd-5fl5gz2tg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -532,10 +532,107 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyev2-ypahgorm0</odePageId>
-  <odeParentPageId>page-moyoyeuw-73ajum9u1</odeParentPageId>
-  <pageName>Definición</pageName>
+  <odePageId>page-moyygkip-eczn1s55a</odePageId>
+  <odeParentPageId>page-moyygki9-me0ec34od</odeParentPageId>
+  <pageName>Protección de datos y huella digital</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y huella digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos y huella digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moyygkip-eczn1s55a</odePageId>
+      <odeBlockId>block-mox5hizb-2r5l1rs6t</odeBlockId>
+      <blockName>Información a tener en cuenta</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moyygkip-eczn1s55a</odePageId>
+          <odeBlockId>block-mox5hizb-2r5l1rs6t</odeBlockId>
+          <odeIdeviceId>idevice-mox5hizb-3q2t85go9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px; text-align: center;"><img src="{{context_path}}/content/resources/Supervivencia Digital Educativa.jpg" title="Protección de datos y huella digital" width="800" height="2000" alt="Huella digital " style="text-align: center;" /></figure>
+<figure class="exe-figure position-center" style="width: 800px; text-align: center;">
+<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Protección de datos y huella digital</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizb-3q2t85go9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Supervivencia Digital Educativa.jpg\" title=\"Protección de datos y huella digital\" width=\"800\" height=\"2000\" alt=\"Huella digital \" style=\"text-align: center;\" /></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\">\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Protección de datos y huella digital</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyygkil-9a42gdfec</odePageId>
+  <odeParentPageId>page-moyygki9-me0ec34od</odeParentPageId>
+  <pageName>Definición</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -568,7 +665,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+      <odePageId>page-moyygkil-9a42gdfec</odePageId>
       <odeBlockId>block-mox5hizb-o6rknwjjr</odeBlockId>
       <blockName>¿Qué es un circuito neumático - hidráulico?</blockName>
       <iconName>think</iconName>
@@ -597,7 +694,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+          <odePageId>page-moyygkil-9a42gdfec</odePageId>
           <odeBlockId>block-mox5hizb-o6rknwjjr</odeBlockId>
           <odeIdeviceId>idevice-mox5hizb-l8e0ru76u</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -633,7 +730,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+      <odePageId>page-moyygkil-9a42gdfec</odePageId>
       <odeBlockId>block-mox5hizb-mtajmjyrc</odeBlockId>
       <blockName>Caso practico</blockName>
       <iconName>case</iconName>
@@ -662,7 +759,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev2-ypahgorm0</odePageId>
+          <odePageId>page-moyygkil-9a42gdfec</odePageId>
           <odeBlockId>block-mox5hizb-mtajmjyrc</odeBlockId>
           <odeIdeviceId>idevice-mox5hizb-ips6zq4e5</odeIdeviceId>
           <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
@@ -727,47 +824,23 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyev3-hziocoq8j</odePageId>
-  <odeParentPageId>page-moyoyeuw-73ajum9u1</odeParentPageId>
-  <pageName>Protección de datos y huella digital</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odePageId>page-1778368252032-zukipubai</odePageId>
+  <odeParentPageId>page-moyygki9-me0ec34od</odeParentPageId>
+  <pageName>Tareas-Curación de contenidos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Protección de datos y huella digital</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Elementos</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>Protección de datos y huella digital</value>
+      <value>Tareas-Curación de contenidos</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyev3-hziocoq8j</odePageId>
-      <odeBlockId>block-mox5hizb-2r5l1rs6t</odeBlockId>
-      <blockName>Información a tener en cuenta</blockName>
+      <odePageId>page-1778368252032-zukipubai</odePageId>
+      <odeBlockId>block-1778368298188-ufnbmuu0h</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
       <iconName>book</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -792,31 +865,20 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev3-hziocoq8j</odePageId>
-          <odeBlockId>block-mox5hizb-2r5l1rs6t</odeBlockId>
-          <odeIdeviceId>idevice-mox5hizb-3q2t85go9</odeIdeviceId>
+          <odePageId>page-1778368252032-zukipubai</odePageId>
+          <odeBlockId>block-1778368298188-ufnbmuu0h</odeBlockId>
+          <odeIdeviceId>idevice-1778368298187-wdwvas1zp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <figure class="exe-figure position-center" style="width: 800px; text-align: center;"><img src="{{context_path}}/content/resources/Supervivencia Digital Educativa.jpg" title="Protección de datos y huella digital" width="800" height="2000" alt="Huella digital " style="text-align: center;" /></figure>
-<figure class="exe-figure position-center" style="width: 800px; text-align: center;">
-<figcaption class="figcaption"><span class="author">Angélica Rojas</span>. <span class="title"><em>Protección de datos y huella digital</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
-</figure>
+    <p>Para que el alumnado pueda trabajar las distintas actividades que se plantean en el desarrollo de esta SA, deberá entrar en la herramienta PADLET creada para tal fin. </p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/xp28r3h64pvc2tzl" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mox5hizb-3q2t85go9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Supervivencia Digital Educativa.jpg\" title=\"Protección de datos y huella digital\" width=\"800\" height=\"2000\" alt=\"Huella digital \" style=\"text-align: center;\" /></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\">\n<figcaption class=\"figcaption\"><span class=\"author\">Angélica Rojas</span>. <span class=\"title\"><em>Protección de datos y huella digital</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778368298187-wdwvas1zp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para que el alumnado pueda trabajar las distintas actividades que se plantean en el desarrollo de esta SA, deberá entrar en la herramienta PADLET creada para tal fin. </p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/xp28r3h64pvc2tzl\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -824,10 +886,10 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyev4-305bkn5rt</odePageId>
-  <odeParentPageId>page-moyoyeuw-73ajum9u1</odeParentPageId>
+  <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
+  <odeParentPageId>page-moyygki9-me0ec34od</odeParentPageId>
   <pageName>¿Aire o aceite?</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -860,7 +922,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
       <odeBlockId>block-mox5hizb-9we5ssol8</odeBlockId>
       <blockName>Conocimiento previo</blockName>
       <iconName>think</iconName>
@@ -889,7 +951,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
           <odeBlockId>block-mox5hizb-9we5ssol8</odeBlockId>
           <odeIdeviceId>idevice-mox5hizb-5i2xcyj9e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -923,7 +985,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
       <odeBlockId>block-mox5hizb-6aqobghqb</odeBlockId>
       <blockName>Sistemas neumáticos</blockName>
       <iconName>present</iconName>
@@ -952,7 +1014,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
           <odeBlockId>block-mox5hizb-6aqobghqb</odeBlockId>
           <odeIdeviceId>idevice-mox5hizb-jrmti7s88</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -986,7 +1048,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
       <odeBlockId>block-1778262597172-bz2iqujwo</odeBlockId>
       <blockName>Selecciona la opción correcta</blockName>
       <iconName>letters</iconName>
@@ -1015,7 +1077,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
           <odeBlockId>block-1778262597172-bz2iqujwo</odeBlockId>
           <odeIdeviceId>idevice-1778262597171-fsqt5b9yr</odeIdeviceId>
           <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
@@ -1040,7 +1102,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+      <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
       <odeBlockId>block-1778263599028-seysg9z7u</odeBlockId>
       <blockName>Elementos de los sistemas neumáticos-hidraúlicos</blockName>
       <iconName>present</iconName>
@@ -1069,7 +1131,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev4-305bkn5rt</odePageId>
+          <odePageId>page-moyygkis-jwjt2iqoh</odePageId>
           <odeBlockId>block-1778263599028-seysg9z7u</odeBlockId>
           <odeIdeviceId>idevice-1778263599027-vexnw52tz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1104,10 +1166,10 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
-  <odeParentPageId>page-moyoyev4-305bkn5rt</odeParentPageId>
+  <odePageId>page-moyygkix-1fzdt8qrs</odePageId>
+  <odeParentPageId>page-moyygkis-jwjt2iqoh</odeParentPageId>
   <pageName>Aplicaciones</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1140,7 +1202,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+      <odePageId>page-moyygkix-1fzdt8qrs</odePageId>
       <odeBlockId>block-mox5hizc-uihbss4zc</odeBlockId>
       <blockName>Aplicaciones</blockName>
       <iconName>book</iconName>
@@ -1169,7 +1231,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+          <odePageId>page-moyygkix-1fzdt8qrs</odePageId>
           <odeBlockId>block-mox5hizc-uihbss4zc</odeBlockId>
           <odeIdeviceId>idevice-mox5hizc-nlz3n3apo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1204,7 +1266,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+      <odePageId>page-moyygkix-1fzdt8qrs</odePageId>
       <odeBlockId>block-mox5hizd-b1pszbys4</odeBlockId>
       <blockName>Reflexion</blockName>
       <iconName>reflection</iconName>
@@ -1233,7 +1295,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyev9-ln6oyi9gb</odePageId>
+          <odePageId>page-moyygkix-1fzdt8qrs</odePageId>
           <odeBlockId>block-mox5hizd-b1pszbys4</odeBlockId>
           <odeIdeviceId>idevice-mox5hizd-tmjuupxps</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1263,7 +1325,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyevb-ed1314nhx</odePageId>
+  <odePageId>page-moyygkiz-vnax2v4cp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Proyecto</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -1299,7 +1361,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyevb-ed1314nhx</odePageId>
+      <odePageId>page-moyygkiz-vnax2v4cp</odePageId>
       <odeBlockId>block-1778343085298-96ewb051t</odeBlockId>
       <blockName>Reto</blockName>
       <iconName>activity</iconName>
@@ -1328,7 +1390,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevb-ed1314nhx</odePageId>
+          <odePageId>page-moyygkiz-vnax2v4cp</odePageId>
           <odeBlockId>block-1778343085298-96ewb051t</odeBlockId>
           <odeIdeviceId>idevice-1778343085297-xk19b2pbk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1370,8 +1432,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyevc-pg4kjp4xg</odePageId>
-  <odeParentPageId>page-moyoyevb-ed1314nhx</odeParentPageId>
+  <odePageId>page-moyygkj0-eou6pf33j</odePageId>
+  <odeParentPageId>page-moyygkiz-vnax2v4cp</odeParentPageId>
   <pageName>Simulaciones</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1406,7 +1468,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyevc-pg4kjp4xg</odePageId>
+      <odePageId>page-moyygkj0-eou6pf33j</odePageId>
       <odeBlockId>block-1778341191169-y7ilvdbs1</odeBlockId>
       <blockName>Simulaciones</blockName>
       <iconName>interactive</iconName>
@@ -1435,7 +1497,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevc-pg4kjp4xg</odePageId>
+          <odePageId>page-moyygkj0-eou6pf33j</odePageId>
           <odeBlockId>block-1778341191169-y7ilvdbs1</odeBlockId>
           <odeIdeviceId>idevice-1778341191168-9e5jbqvqk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1473,8 +1535,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyevd-o3u5ry6am</odePageId>
-  <odeParentPageId>page-moyoyevb-ed1314nhx</odeParentPageId>
+  <odePageId>page-moyygkj2-b9ooqdhj0</odePageId>
+  <odeParentPageId>page-moyygkiz-vnax2v4cp</odeParentPageId>
   <pageName>Línea temporal del proyecto</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1509,7 +1571,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyevd-o3u5ry6am</odePageId>
+      <odePageId>page-moyygkj2-b9ooqdhj0</odePageId>
       <odeBlockId>block-mox5hizd-v2h409jix</odeBlockId>
       <blockName>Línea temporal organización del proyecto</blockName>
       <iconName>roadmap</iconName>
@@ -1538,7 +1600,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevd-o3u5ry6am</odePageId>
+          <odePageId>page-moyygkj2-b9ooqdhj0</odePageId>
           <odeBlockId>block-mox5hizd-v2h409jix</odeBlockId>
           <odeIdeviceId>idevice-mox5hizd-qoi3b6fqn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1570,8 +1632,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyeve-svqdx5q58</odePageId>
-  <odeParentPageId>page-moyoyevb-ed1314nhx</odeParentPageId>
+  <odePageId>page-moyygkj3-d19kmf9sh</odePageId>
+  <odeParentPageId>page-moyygkiz-vnax2v4cp</odeParentPageId>
   <pageName>Pautas DUA</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1606,7 +1668,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyeve-svqdx5q58</odePageId>
+      <odePageId>page-moyygkj3-d19kmf9sh</odePageId>
       <odeBlockId>block-1778345555621-sq5em9ftc</odeBlockId>
       <blockName>Contenido DUA</blockName>
       <iconName>think</iconName>
@@ -1635,7 +1697,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyeve-svqdx5q58</odePageId>
+          <odePageId>page-moyygkj3-d19kmf9sh</odePageId>
           <odeBlockId>block-1778345555621-sq5em9ftc</odeBlockId>
           <odeIdeviceId>idevice-1778345555621-754ipma7p</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1681,7 +1743,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyevf-fqs5xxvx6</odePageId>
+  <odePageId>page-moyygkj7-xvqcsejpi</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -1717,7 +1779,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyevf-fqs5xxvx6</odePageId>
+      <odePageId>page-moyygkj7-xvqcsejpi</odePageId>
       <odeBlockId>block-1778346088832-4vfvdq04d</odeBlockId>
       <blockName>Observaciones y recomendaciones</blockName>
       <iconName>observe</iconName>
@@ -1746,7 +1808,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevf-fqs5xxvx6</odePageId>
+          <odePageId>page-moyygkj7-xvqcsejpi</odePageId>
           <odeBlockId>block-1778346088832-4vfvdq04d</odeBlockId>
           <odeIdeviceId>idevice-1778346088831-zhwjkje4k</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1785,8 +1847,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyevf-utdnd7dwu</odePageId>
-  <odeParentPageId>page-moyoyevf-fqs5xxvx6</odeParentPageId>
+  <odePageId>page-moyygkj8-42srac9lj</odePageId>
+  <odeParentPageId>page-moyygkj7-xvqcsejpi</odeParentPageId>
   <pageName>Criterios de Evaluación</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1821,7 +1883,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyevf-utdnd7dwu</odePageId>
+      <odePageId>page-moyygkj8-42srac9lj</odePageId>
       <odeBlockId>block-1778345149159-py105fqjg</odeBlockId>
       <blockName>Relación</blockName>
       <iconName>draw</iconName>
@@ -1850,7 +1912,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevf-utdnd7dwu</odePageId>
+          <odePageId>page-moyygkj8-42srac9lj</odePageId>
           <odeBlockId>block-1778345149159-py105fqjg</odeBlockId>
           <odeIdeviceId>idevice-1778345149158-m5b4p4odc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1881,7 +1943,68 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+  <odePageId>page-1778368574394-7i9brcb96</odePageId>
+  <odeParentPageId>page-moyygkj7-xvqcsejpi</odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778368574394-7i9brcb96</odePageId>
+      <odeBlockId>block-1778368577526-xmd3ho4gd</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778368574394-7i9brcb96</odePageId>
+          <odeBlockId>block-1778368577526-xmd3ho4gd</odeBlockId>
+          <odeIdeviceId>idevice-1778368577525-hcmk15z5b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/d9okrvsf319opgrm" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778368577525-hcmk15z5b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/d9okrvsf319opgrm\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyygkja-kjd10hgl6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Autoría y Licencia</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -1917,7 +2040,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+      <odePageId>page-moyygkja-kjd10hgl6</odePageId>
       <odeBlockId>block-mox5hizd-0d8pv5xon</odeBlockId>
       <blockName>Autoría</blockName>
       <iconName>info</iconName>
@@ -1946,7 +2069,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+          <odePageId>page-moyygkja-kjd10hgl6</odePageId>
           <odeBlockId>block-mox5hizd-0d8pv5xon</odeBlockId>
           <odeIdeviceId>idevice-mox5hizd-hdss3xw50</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1971,7 +2094,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+      <odePageId>page-moyygkja-kjd10hgl6</odePageId>
       <odeBlockId>block-mox5hize-ynqm5npqv</odeBlockId>
       <blockName>Licencia</blockName>
       <iconName>info</iconName>
@@ -2000,7 +2123,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+          <odePageId>page-moyygkja-kjd10hgl6</odePageId>
           <odeBlockId>block-mox5hize-ynqm5npqv</odeBlockId>
           <odeIdeviceId>idevice-mox5hize-tzccg8wkr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2027,7 +2150,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+      <odePageId>page-moyygkja-kjd10hgl6</odePageId>
       <odeBlockId>block-1778346462926-clugfd5yl</odeBlockId>
       <blockName>Descripción</blockName>
       <iconName>info</iconName>
@@ -2056,7 +2179,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevg-lm4bkjuny</odePageId>
+          <odePageId>page-moyygkja-kjd10hgl6</odePageId>
           <odeBlockId>block-1778346462926-clugfd5yl</odeBlockId>
           <odeIdeviceId>idevice-1778346462925-siwun72q6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2086,8 +2209,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
-  <odeParentPageId>page-moyoyevg-lm4bkjuny</odeParentPageId>
+  <odePageId>page-moyygkjd-0udzgzq8i</odePageId>
+  <odeParentPageId>page-moyygkja-kjd10hgl6</odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2122,7 +2245,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+      <odePageId>page-moyygkjd-0udzgzq8i</odePageId>
       <odeBlockId>block-moyo7z9k-muta2mlda</odeBlockId>
       <blockName>Autoría</blockName>
       <iconName>udl_exp_tareagrupal</iconName>
@@ -2151,7 +2274,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+          <odePageId>page-moyygkjd-0udzgzq8i</odePageId>
           <odeBlockId>block-moyo7z9k-muta2mlda</odeBlockId>
           <odeIdeviceId>idevice-moyo7z9k-37ugtrdq8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2203,7 +2326,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+      <odePageId>page-moyygkjd-0udzgzq8i</odePageId>
       <odeBlockId>block-moyo2ei1-88vke2u30</odeBlockId>
       <blockName>Aquí tienes el archivo fuente</blockName>
       <iconName></iconName>
@@ -2232,7 +2355,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moyoyevi-3xvsguxyd</odePageId>
+          <odePageId>page-moyygkjd-0udzgzq8i</odePageId>
           <odeBlockId>block-moyo2ei1-88vke2u30</odeBlockId>
           <odeIdeviceId>idevice-moyo2ei1-g5ce0h8k3</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
